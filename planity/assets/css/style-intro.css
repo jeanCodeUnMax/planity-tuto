@@ -16,12 +16,12 @@ nav {
 
 /* Sélecteur avec un id */
 #main {
-    background-color: yellow;
+    background-color: rgb(255, 119, 0);
 }
 
 /* Sélecteur avec lien parentalité */
 header button {
-    font-size: 30px
+    font-size: 120px
 }
 
 .quick-action-buttons {
